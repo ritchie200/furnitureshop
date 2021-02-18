@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{57788000-9E9F-4D62-A6E2-5CC84651D058}|Default">
+  <MonoDevelop.Ide.ItemProperties.XFFurniture.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.25D65315-AC9A-419E-B200-81B04C196585" />
+  <MonoDevelop.Ide.ItemProperties.XFFurniture.Android PreferredExecutionTarget="Android.Nexus_9_API_22" />
+  <MultiItemStartupConfigurations />
+</Properties>

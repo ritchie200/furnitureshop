@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+6ztrlyBqOptCLL9/O9hVCOGjSp582t4MOzLZPwG9F+STVsb1l2y1WKEWWWvj8thXsdNSJn4OVzVmlLaim67CA==",
+  "success": true,
+  "projectFilePath": "/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/XFFurniture.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ritchie/.nuget/packages/sharpnado.shadows/1.0.2/sharpnado.shadows.1.0.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms/4.7.0.968/xamarin.forms.4.7.0.968.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms.pancakeview/1.4.2/xamarin.forms.pancakeview.1.4.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

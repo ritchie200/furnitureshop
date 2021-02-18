@@ -1,0 +1,15 @@
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/bin/Debug/netstandard2.0/XFFurniture.deps.json
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/bin/Debug/netstandard2.0/XFFurniture.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/bin/Debug/netstandard2.0/ref/XFFurniture.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/bin/Debug/netstandard2.0/XFFurniture.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XFFurniture.csprojAssemblyReference.cache
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/Views/DetailPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XFFurniture.AssemblyInfoInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XFFurniture.AssemblyInfo.cs
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XFFurniture.csproj.CoreCompileInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XFFurniture.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/ref/XFFurniture.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/obj/Debug/netstandard2.0/XFFurniture.pdb

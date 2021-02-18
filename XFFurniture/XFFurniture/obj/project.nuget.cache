@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTV6YeVKR72IwBV3S3hOPduISVnqEyqvkj33YuAyYO/iadnyQEGKxzgEUFIGO6z9IYrO0yrQCJHQqF6g6NOZzQ==",
+  "success": true,
+  "projectFilePath": "/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture/XFFurniture.csproj",
+  "expectedPackageFiles": [
+    "/Users/ritchie/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/sharpnado.shadows/1.0.2/sharpnado.shadows.1.0.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms/4.7.0.968/xamarin.forms.4.7.0.968.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.forms.pancakeview/1.4.2/xamarin.forms.pancakeview.1.4.2.nupkg.sha512",
+    "/Users/ritchie/.nuget/packages/xamarin.plugin.sharedtransitions/2.4.0/xamarin.plugin.sharedtransitions.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

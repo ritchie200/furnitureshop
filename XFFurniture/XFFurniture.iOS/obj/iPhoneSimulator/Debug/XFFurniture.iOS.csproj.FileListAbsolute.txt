@@ -1,0 +1,110 @@
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/XFFurniture.iOS.exe
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/XFFurniture.iOS.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.iOS.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Sharpnado.Shadows.iOS.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Plugin.SharedTransitions.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/XFFurniture.dll
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/XFFurniture.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/XFFurniture.iOS.csprojAssemblyReference.cache
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/XFFurniture.iOS.csproj.CoreCompileInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/XFFurniture.iOS.csproj.CopyComplete
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/XFFurniture.iOS.exe
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/XFFurniture.iOS.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_PartialAppManifest.items
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_PartialAppManifest.items
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/cart@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/cart.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/cart@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/armchair@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/armchair.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/armchair@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/lamp@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/lamp.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/lamp@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/tvstand@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/tvstand.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/tvstand@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair4.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair4@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair4@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair1.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair1@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair1@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair2.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair2@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair2@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair3.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair3@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair3@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/heart@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/heart.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/heart@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/heart_outline@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/heart_outline.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/heart_outline@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/star@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/star@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/star.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair5@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair5.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/chair5@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/sofa@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/sofa.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/sofa@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/cart_white@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/cart_white.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/cart_white@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Furniture/furnitureshop/XFFurniture/XFFurniture.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/
